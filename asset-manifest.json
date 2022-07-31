@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/mernApp/static/css/main.4bac055a.css",
-    "main.js": "/mernApp/static/js/main.995cf90e.js",
-    "index.html": "/mernApp/index.html",
-    "main.4bac055a.css.map": "/mernApp/static/css/main.4bac055a.css.map",
-    "main.995cf90e.js.map": "/mernApp/static/js/main.995cf90e.js.map"
+    "main.css": "/woniderhaf/mern/static/css/main.4e221aa8.css",
+    "main.js": "/woniderhaf/mern/static/js/main.44b6f4f5.js",
+    "index.html": "/woniderhaf/mern/index.html",
+    "main.4e221aa8.css.map": "/woniderhaf/mern/static/css/main.4e221aa8.css.map",
+    "main.44b6f4f5.js.map": "/woniderhaf/mern/static/js/main.44b6f4f5.js.map"
   },
   "entrypoints": [
-    "static/css/main.4bac055a.css",
-    "static/js/main.995cf90e.js"
+    "static/css/main.4e221aa8.css",
+    "static/js/main.44b6f4f5.js"
   ]
 }
